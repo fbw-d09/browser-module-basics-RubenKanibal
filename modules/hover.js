@@ -14,3 +14,7 @@ function hoverHeader() {
     }
   });
 }
+
+export {
+  hoverHeader
+}
